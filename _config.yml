@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  project-categories:
+    title: Project Categories
+    output: true
   projects:
     title: Projects
     output: true
