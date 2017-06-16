@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  {% seo title=false %}
+  <title>{{ page.title }}{% if page.url != '/' %} - Avani Tavargeri{% endif %}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="/styles/socicon.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/styles/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="/styles/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
+  <link href="/styles/interface-icons.css" rel="stylesheet" type="text/css" media="all"/>
+  <link href="/styles/owl.carousel.css" rel="stylesheet" type="text/css" media="all"/>
+  <link href="/styles/theme-mediumblue.css" rel="stylesheet" type="text/css" media="all"/>
+  <link href="/styles/custom.css" rel="stylesheet" type="text/css" media="all"/>
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400italic,300italic,300%7CLato:400,400italic" rel="stylesheet" type="text/css">
+  <link href="/styles/font-mulilato.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  {% include header.html %}
+  <div class="main-container">
+    {{ content }}
+    {% include footer.html %}
+  </div>
+  <script src="/scripts/jquery-2.1.4.min.js"></script>
+  <script src="/scripts/isotope.min.js"></script>
+  <script src="/scripts/scrollreveal.min.js"></script>
+  <script src="/scripts/parallax.js"></script>
+  <script src="/scripts/scripts.js"></script>
+</body>
+</html>
