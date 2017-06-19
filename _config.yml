@@ -31,7 +31,7 @@ defaults:
     type: projects
   values:
     layout: project
-description:
+description: 
 permalink: pretty
 exclude:
 - Gruntfile.js
