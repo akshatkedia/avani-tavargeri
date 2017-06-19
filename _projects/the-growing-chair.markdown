@@ -5,11 +5,8 @@ description: 'Chadle, a chair that transforms to accommodate the various stages 
   growth of a human. It serves as a cradle for a baby, and a simple twist allows you
   to convert it into a rocking chair for an adult. '
 project category: Industrial Design
+inspiration: 'Chadle is inspired from the growth cycles in nature. '
 ---
-
-
-
-Chadle is inspired from the growth cycles in nature. 
 
 In nature everything grows as a whole, as a system. All the elements of a system transform an adapt to accommodate the various stages of growth.
 
