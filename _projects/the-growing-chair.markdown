@@ -1,9 +1,12 @@
 ---
 title: The Growing Chair
 date: 2017-06-19 14:50:00 +05:30
+description: 'Chadle, a chair that transforms to accommodate the various stages of
+  growth of a human. It serves as a cradle for a baby, and a simple twist allows you
+  to convert it into a rocking chair for an adult. '
 ---
 
-Chadle, a chair that transforms to accommodate the various stages of growth of a human. It serves as a cradle for a baby, and a simple twist allows you to convert it into a rocking chair for an adult. 
+
 
 Chadle is inspired from the growth cycles in nature. 
 
