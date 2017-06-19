@@ -31,7 +31,8 @@ defaults:
     type: projects
   values:
     layout: project
-description: 
+description:
+email: avani.tavargeri@gmail.com
 permalink: pretty
 exclude:
 - Gruntfile.js
