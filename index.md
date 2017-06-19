@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Avani Tavargeri - Product Designer
 layout: index
 ---
 

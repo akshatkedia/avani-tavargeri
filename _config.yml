@@ -31,7 +31,20 @@ defaults:
     type: projects
   values:
     layout: project
+    thumbnail image: 
+    project category: 
+    description: 
+    key focus areas:
+    - 
+    top image: 
+    section two:
+      title: 
+      text: 
+    gallery:
+    - image: 
+      text: 
 description: 
+email: avani.tavargeri@gmail.com
 permalink: pretty
 exclude:
 - Gruntfile.js
