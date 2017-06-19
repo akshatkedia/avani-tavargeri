@@ -31,6 +31,14 @@ defaults:
     type: projects
   values:
     layout: project
+    description:
+    key focus areas:
+    -
+    inspiration:
+    thumbnail:
+    image:
+    gallery:
+    -
 description:
 email: avani.tavargeri@gmail.com
 permalink: pretty
