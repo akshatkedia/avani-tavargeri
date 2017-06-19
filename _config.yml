@@ -26,6 +26,11 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: projects
+  values:
+    layout: project
 permalink: pretty
 exclude:
 - Gruntfile.js
