@@ -2,21 +2,35 @@
 layout: default
 ---
 
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8 col-sm-offset-2 text-center">
+        <h1>{{ site.title }}</h1>
+        <p class="lead">
+          Built on a modular scale, Pillar's typography is neatly structured and resizes intuitively on all devices for optimal legibility
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="masonry-contained">
   <div class="container">
     <div class="row">
       <div class="masonry">
         <div class="masonry__filters text-center" data-filter-all-text="Show All"></div>
         <div class="masonry__container masonry--animate masonry--active">
+          {% for project in site.projects %}
           <div class="col-sm-4 masonry__item" data-masonry-filter="digital">
-            <a href="#">
+            <a href="{{ project.url }}">
               <div class="card card-3">
                 <div class="card__image">
                   <img alt="Pic" src="/img/work14.jpg">
                 </div>
                 <div class="card__body boxed bg--white">
                   <div class="card__title">
-                    <h5>Pillar Website</h5>
+                    <h5>{{ project.title }}</h5>
                   </div>
                   <span>
                     <em>Digital Presence</em>
@@ -25,91 +39,7 @@ layout: default
               </div>
             </a>
           </div>
-          <div class="col-sm-4 masonry__item" data-masonry-filter="digital">
-            <a href="#">
-              <div class="card card-3">
-                <div class="card__image">
-                  <img alt="Pic" src="/img/work14.jpg">
-                </div>
-                <div class="card__body boxed bg--white">
-                  <div class="card__title">
-                    <h5>Pillar Website</h5>
-                  </div>
-                  <span>
-                    <em>Digital Presence</em>
-                  </span>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-sm-4 masonry__item" data-masonry-filter="digital">
-            <a href="#">
-              <div class="card card-3">
-                <div class="card__image">
-                  <img alt="Pic" src="/img/work14.jpg">
-                </div>
-                <div class="card__body boxed bg--white">
-                  <div class="card__title">
-                    <h5>Pillar Website</h5>
-                  </div>
-                  <span>
-                    <em>Digital Presence</em>
-                  </span>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-sm-4 masonry__item" data-masonry-filter="digital">
-            <a href="#">
-              <div class="card card-3">
-                <div class="card__image">
-                  <img alt="Pic" src="/img/work14.jpg">
-                </div>
-                <div class="card__body boxed bg--white">
-                  <div class="card__title">
-                    <h5>Pillar Website</h5>
-                  </div>
-                  <span>
-                    <em>Digital Presence</em>
-                  </span>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-sm-4 masonry__item" data-masonry-filter="digital">
-            <a href="#">
-              <div class="card card-3">
-                <div class="card__image">
-                  <img alt="Pic" src="/img/work14.jpg">
-                </div>
-                <div class="card__body boxed bg--white">
-                  <div class="card__title">
-                    <h5>Pillar Website</h5>
-                  </div>
-                  <span>
-                    <em>Digital Presence</em>
-                  </span>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-sm-4 masonry__item" data-masonry-filter="digital">
-            <a href="#">
-              <div class="card card-3">
-                <div class="card__image">
-                  <img alt="Pic" src="/img/work14.jpg">
-                </div>
-                <div class="card__body boxed bg--white">
-                  <div class="card__title">
-                    <h5>Pillar Website</h5>
-                  </div>
-                  <span>
-                    <em>Digital Presence</em>
-                  </span>
-                </div>
-              </div>
-            </a>
-          </div>
+          {% endfor %}
         </div>
       </div>
     </div>
