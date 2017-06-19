@@ -26,14 +26,14 @@ layout: default
             <a href="{{ project.url }}">
               <div class="card card-3">
                 <div class="card__image">
-                  <img alt="Pic" src="/img/work14.jpg">
+                  <img alt="Pic" src="{{ project['thumbnail image'] }}">
                 </div>
                 <div class="card__body boxed bg--white">
                   <div class="card__title">
                     <h5>{{ project.title }}</h5>
                   </div>
                   <span>
-                    <em>Digital Presence</em>
+                    <em>{{ project['project category'] }}</em>
                   </span>
                 </div>
               </div>
