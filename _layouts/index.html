@@ -22,7 +22,7 @@ layout: default
         <div class="masonry__filters text-center" data-filter-all-text="Show All"></div>
         <div class="masonry__container masonry--animate masonry--active">
           {% for project in site.projects %}
-          <div class="col-sm-4 masonry__item" data-masonry-filter="digital">
+          <div class="col-sm-4 masonry__item" data-masonry-filter="{{ project['project category'] | downcase }}">
             <a href="{{ project.url }}">
               <div class="card card-3">
                 <div class="card__image">
