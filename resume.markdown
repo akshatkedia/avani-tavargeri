@@ -23,7 +23,13 @@ education:
   Graduate Diploma in Product Design
   2011-2016
 tools:
-- 
+- |
+  SolidWorks
+  Keyshot
+  Adobe Illustrator
+  Adobe Photoshop
+  Adobe InDesign
+  Indigo Studio
 interests:
 - 
 achievements:
