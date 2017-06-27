@@ -39,7 +39,7 @@ achievements:
   Certificate for Creative Excellence
   Symbiosis School, Nasik
   2009
-- 
+- "Firodiya Karandak\nIntercollegiate Dance and  "
 layout: resume
 ---
 
