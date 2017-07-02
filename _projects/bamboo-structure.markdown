@@ -8,5 +8,10 @@ key focus areas:
 - Structural Design
 - Material Study
 top image: "/uploads/Bamboo%20&%20Sculpting%202014%20Electives%20025.jpg"
+gallery:
+- image: "/uploads/Bamboo%20&%20Sculpting%202014%20Electives%20062-74b09a.jpg"
+  text: 
+- image: "/uploads/2014-03-24%2018.34.34-749c33.jpg"
+  text: 
 ---
 
