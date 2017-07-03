@@ -13,5 +13,13 @@ gallery:
   text: 
 - image: "/uploads/2014-03-24%2018.34.34-749c33.jpg"
   text: 
+- image: "/uploads/IMG_2456.jpg"
+  text: 
+- image: "/uploads/Untitled-1.jpg"
+  text: 
+- image: "/uploads/_MG_0202.jpg"
+  text: 
+- image: "/uploads/IMG_2391.jpg"
+  text: 
 ---
 
