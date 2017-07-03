@@ -3,44 +3,42 @@ title: Resume
 date: 2017-06-20 23:11:00 +05:30
 about me text: 
 work:
-- "Internship at Brahma 3\n2 months \nJune - August 2014\n"
-- |
-  Internship at Maker's Asylum
-  7 months
-  September 2015 - March 2016
-- |-
-  Persistent Systems
-  12 months
-  July 2016
+- position: Internship
+  company: Brahma3
+  duration: 2 months
+  months: June 2014 - August 2014
+- position: Internship
+  company: Maker's Asylum
+  duration: 7 months
+  months: September 2015 - March 2016
+- position: UX Designer
+  company: Persistent Systems
+  duration: 12 months
+  months: July 2016 - Present
 education:
-- "Symbiosis School, Nasik \n(CBSE)\n2009"
-- |-
-  R.Y.K College of Science
-  (HSC)
-  2009-2011
-- |-
-  MIT Institute of Design, Pune, India
-  Graduate Diploma in Product Design
-  2011-2016
+- name: MIT Institute of Design, Pune, India
+  degree: Graduate Diploma in Product Design
+  years: 2011 - 2016
 tools:
-- |
-  SolidWorks
-  Keyshot
-  Adobe Illustrator
-  Adobe Photoshop
-  Adobe InDesign
-  Indigo Studio
+- SolidWorks
+- Keyshot
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe InDesign
+- Indigo Studio
 interests:
 - 
-achievements:
-- "All India Multilingual Dance and Theater Competition \n3 Awards (Kathak,  Free
-  Style, Folk)\n2007"
+achievements text:
+- "All India Multilingual Dance and Theater Competition \n\n3 Awards (Kathak, Free
+  Style, Folk)\n\n2007"
 - |-
   Certificate for Creative Excellence
+
   Symbiosis School, Nasik
+
   2009
-- "Firodiya Karandak\nIntercollegiate Dance and  Theater Competition\n1st prize in
-  the classical dance category\n2014 "
+- "Firodiya Karandak\n\nIntercollegiate Dance and Theater Competition\n\n1st prize
+  in the classical dance category\n\n2014 "
 layout: resume
 ---
 
