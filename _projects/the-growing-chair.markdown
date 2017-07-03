@@ -1,7 +1,7 @@
 ---
 title: The Growing Chair
 date: 2017-06-19 14:50:00 +05:30
-thumbnail image: "/uploads/Chadle-thumbnail.jpg"
+thumbnail image: "/uploads/thumbnail-chadle.jpg"
 project category: Industrial Design
 description: 'Chadle, a chair that transforms to accommodate the various stages of
   growth of a human. It serves as a cradle for a baby, and a simple twist allows you
