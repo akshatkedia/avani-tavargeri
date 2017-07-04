@@ -7,19 +7,29 @@ key focus areas:
 - Space Design
 - Structural Design
 - Material Study
-top image: "/uploads/Bamboo%20&%20Sculpting%202014%20Electives%20025.jpg"
+top image: "/uploads/Bamboo-1.jpg"
 gallery:
-- image: "/uploads/Bamboo%20&%20Sculpting%202014%20Electives%20062-74b09a.jpg"
+- image: "/uploads/Bamboo-2.jpg"
   text: 
-- image: "/uploads/2014-03-24%2018.34.34-749c33.jpg"
+- image: "/uploads/Bamboo-3.jpg"
   text: 
-- image: "/uploads/IMG_2456.jpg"
+- image: "/uploads/Bamboo-4.jpg"
   text: 
-- image: "/uploads/Untitled-1.jpg"
+- image: "/uploads/Bamboo-5.jpg"
   text: 
-- image: "/uploads/_MG_0202.jpg"
+- image: "/uploads/Bamboo-6.jpg"
   text: 
-- image: "/uploads/IMG_2391.jpg"
+- image: "/uploads/Bamboo-8.jpg"
+  text: 
+- image: "/uploads/Bamboo-7.jpg"
+  text: 
+- image: "/uploads/Bamboo-9.jpg"
+  text: 
+- image: "/uploads/Bamboo-10.jpg"
+  text: 
+- image: "/uploads/Bamboo-11.jpg"
+  text: 
+- image: "/uploads/Bamboo-12.jpg"
   text: 
 ---
 
