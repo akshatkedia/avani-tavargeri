@@ -7,7 +7,7 @@ key focus areas:
 - Space Design
 - Structural Design
 - Material Study
-top image: "/uploads/Bamboo-1.jpg"
+top image: "/uploads/Bamboo-13.jpg"
 gallery:
 - image: "/uploads/Bamboo-2.jpg"
   text: 
@@ -30,6 +30,8 @@ gallery:
 - image: "/uploads/Bamboo-11.jpg"
   text: 
 - image: "/uploads/Bamboo-12.jpg"
+  text: 
+- image: "/uploads/Bamboo-1.jpg"
   text: 
 ---
 
