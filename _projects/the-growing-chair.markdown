@@ -9,33 +9,35 @@ description: 'Chadle, a chair that transforms to accommodate the various stages 
 key focus areas:
 - Nature Inspired Design
 - 
-top image: "/uploads/untitled.28.png"
+top image: "/uploads/top-image-chadle.jpg"
 section two:
   title: Inspiration
   text: 'Chadle is inspired from the growth cycles in nature. '
 gallery:
-- image: "/uploads/plant-lifecycle.jpg"
+- image: "/uploads/chadle-1.jpg"
   text: "In nature everything grows as a whole, as a system. All the elements of a
-    system transform an adapt to accommodate the various stages of growth.\n\nFor
+    system transform and adapt to accommodate the various stages of growth.\n\nFor
     example, the outer layer of a seed fulfills the purpose of protecting the seed
     throughout the growth cycles of the seed. "
-- image: "/uploads/nidfinal.jpg"
+- image: "/uploads/chadle-2-c43892.jpg"
   text: "\n\nBut this is not the case with human lifestyle. Throughout our life cycle,
     we use various products that fulfill various needs of a particular stage. No product
     grows along with the human. \n\nFor example, to fulfill the purpose of sitting,
-    different chair are designed for different age groups.\n\nWe discard the products
+    different chairs are designed for different age groups.\n\nWe discard the products
     we outgrow, and this is not sustainable.\n\nWith Chadle, the idea was to design
     a product that grows and transforms with the human. A product that accommodates
     various stages of the growth cycle. "
-- image: "/uploads/untitled.1.jpg"
+- image: "/uploads/chadle-6.jpg"
   text: 
-- image: "/uploads/working.png"
+- image: "/uploads/chadle-7.jpg"
   text: 
-- image: "/uploads/2.28.png"
+- image: "/uploads/chadle-4.jpg"
   text: 
-- image: "/uploads/untitled.28-2e5153.png"
+- image: "/uploads/chadle-3.jpg"
   text: 
-- image: "/uploads/chair.26.png"
+- image: "/uploads/chadle-5.jpg"
+  text: 
+- image: "/uploads/chadle-8.jpg"
   text: 
 ---
 
