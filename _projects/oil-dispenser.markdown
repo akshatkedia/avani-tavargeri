@@ -5,8 +5,11 @@ thumbnail image: "/uploads/thumbnail-oil-dispenser.jpg"
 project category: Industrial Design
 key focus areas:
 - Form Semantics
+top image: "/uploads/top-image-oil-dispenser.jpg"
 section two:
   text: Understanding the user and the space around a product and translating the
-    essence from both of these contexts in the form language of the product
+    essence from both of these contexts in the form language of the product.
+gallery:
+- image: "/uploads/oil-dispenser-1.jpg"
 ---
 
