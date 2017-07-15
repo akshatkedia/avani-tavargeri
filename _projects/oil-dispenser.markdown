@@ -10,8 +10,10 @@ key focus areas:
 - Form Semantics
 top image: "/uploads/top-image-oil-dispenser-fc42ca.jpg"
 section two:
-  text: Understanding the user and the space around a product and translating the
-    essence from both of these contexts in the form language of the product.
+  title: about the project
+  text: 'In Ayurvedic spas, oil is used for a variety of purposes. The idea was to
+    create a dispenser that allows the masseuse to pour a thin stream of oil with
+    ease. '
 gallery:
 - image: "/uploads/oil-dispenser-1.jpg"
 ---
