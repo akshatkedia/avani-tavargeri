@@ -33,7 +33,10 @@ defaults:
     layout: project
     thumbnail image: 
     project category: 
-    description: 
+    description:
+      icon: 
+      title: 
+      text: 
     key focus areas:
     - 
     top image: 
