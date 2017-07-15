@@ -3,6 +3,9 @@ title: Bamboo Structure
 date: 2017-06-20 12:43:00 +05:30
 thumbnail image: "/uploads/thumbnail-bamboo-structure.jpg"
 project category: Industrial Design
+description:
+  icon: Tent
+  title: Bamboo Structure
 key focus areas:
 - Space Design
 - Structural Design
