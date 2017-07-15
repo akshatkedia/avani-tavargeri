@@ -3,6 +3,9 @@ title: Oil Dispenser
 date: 2017-06-19 17:06:00 +05:30
 thumbnail image: "/uploads/thumbnail-oil-dispenser.jpg"
 project category: Industrial Design
+description:
+  icon: Rain-Drop
+  title: Oil dispenser for an Ayurveda spa
 key focus areas:
 - Form Semantics
 top image: "/uploads/top-image-oil-dispenser-fc42ca.jpg"
