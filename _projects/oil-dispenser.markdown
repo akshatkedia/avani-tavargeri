@@ -24,5 +24,9 @@ gallery:
   text: 
 - image: "/uploads/oil-dispenser-3.jpg"
   text: 
+- image: "/uploads/oil-dispenser-4.jpg"
+  text: 
+- image: "/uploads/oil-dispenser-5.jpg"
+  text: 
 ---
 
