@@ -19,5 +19,10 @@ section two:
     ease. '
 gallery:
 - image: "/uploads/oil-dispenser-1.jpg"
+  text: 
+- image: "/uploads/oil-dispenser-2.jpg"
+  text: 
+- image: "/uploads/oil-dispenser-3.jpg"
+  text: 
 ---
 
