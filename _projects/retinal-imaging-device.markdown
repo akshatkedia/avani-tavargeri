@@ -13,5 +13,10 @@ description:
 key focus areas:
 - Frugal Innovation
 - 
+top image: "/uploads/top-image-retinal-imaging-device.jpg"
+section two:
+  title: About the project
+  text: 'This project was a collaboration between Maker''s Asylum (a makerspace in
+    Mumbai) and Dr. Rohit Modi (Ophthalmologist). '
 ---
 
