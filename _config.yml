@@ -31,22 +31,22 @@ defaults:
     type: projects
   values:
     layout: project
-    thumbnail image: 
-    project category: 
+    subtitle:
+    thumbnail image:
+    project category:
     description:
-      icon: 
-      title: 
-      text: 
+      icon:
+      text:
     key focus areas:
-    - 
-    top image: 
+    -
+    top image:
     section two:
-      title: 
-      text: 
+      title:
+      text:
     gallery:
-    - image: 
-      text: 
-description: 
+    - image:
+      text:
+description:
 email: avani.tavargeri@gmail.com
 permalink: pretty
 exclude:
@@ -60,6 +60,6 @@ exclude:
 gems:
 - jekyll-seo-tag
 - jekyll-sitemap
-behance: 
-linkedin: 
-instagram: 
+behance:
+linkedin:
+instagram:
