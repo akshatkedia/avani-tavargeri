@@ -17,5 +17,13 @@ gallery:
   text: 
 - image: "/uploads/pincial-4.jpg"
   text: 
+- image: "/uploads/pincial-5.png"
+  text: 
+- image: "/uploads/pincial-6.jpg"
+  text: 
+- image: "/uploads/pincial-7.jpg"
+  text: 
+- image: "/uploads/pincial-8.jpg"
+  text: 
 ---
 
