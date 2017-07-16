@@ -29,5 +29,9 @@ gallery:
   text: 
 - image: "/uploads/retinal-imaging-device-1.jpg"
   text: 
+- image: "/uploads/retinal-imaging-device-6.jpg"
+  text: 
+- image: "/uploads/retinal-imaging-device-7.jpg"
+  text: 
 ---
 
