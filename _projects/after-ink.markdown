@@ -1,12 +1,13 @@
 ---
 title: After Ink
 date: 2017-06-19 16:46:00 +05:30
+subtitle: Tattoo Aftercare Kit
 thumbnail image: "/uploads/thumbnail-after-ink.jpg"
 project category: Industrial Design
 description:
   icon: Box-Open
-  title: After Ink
   text: Packaging Design for a tattoo aftercare kit.
+  title: After Ink
 key focus areas:
 - Packaging Design
 top image: "/uploads/DSC_0249.jpg"
