@@ -31,11 +31,11 @@ defaults:
     type: projects
   values:
     layout: project
+    subtitle: 
     thumbnail image: 
     project category: 
     description:
       icon: 
-      title: 
       text: 
     key focus areas:
     - 
