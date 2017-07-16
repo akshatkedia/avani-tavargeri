@@ -8,5 +8,12 @@ description:
   icon: Wind-Turbine
   title: Pincial
 top image: "/uploads/top-image-pincial.jpg"
+gallery:
+- image: "/uploads/pincial-1.jpg"
+  text: 
+- image: "/uploads/pincial-2.jpg"
+  text: 
+- image: "/uploads/pincial-3.jpg"
+  text: 
 ---
 
