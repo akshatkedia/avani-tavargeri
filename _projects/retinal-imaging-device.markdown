@@ -19,6 +19,10 @@ section two:
   text: 'This project was a collaboration between Maker''s Asylum (a makerspace in
     Mumbai) and Dr. Rohit Modi (Ophthalmologist). '
 gallery:
+- image: "/uploads/retinal-imaging-device-8.jpg"
+  text: 
+- image: "/uploads/retinal-imaging-device-9.jpg"
+  text: 
 - image: "/uploads/retinal-imaging-device-2.jpg"
   text: 
 - image: "/uploads/retinal-imaging-device-3.jpg"
