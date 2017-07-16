@@ -25,5 +25,7 @@ gallery:
   text: 
 - image: "/uploads/pincial-8.jpg"
   text: 
+- image: "/uploads/pincial-gif.gif"
+  text: 
 ---
 
