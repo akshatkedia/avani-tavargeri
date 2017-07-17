@@ -1,6 +1,7 @@
 ---
 title: Bamboo Structure
 date: 2017-06-20 12:43:00 +05:30
+subtitle: A space for social interaction
 thumbnail image: "/uploads/thumbnail-bamboo-structure.jpg"
 project category: Industrial Design
 description:
