@@ -1,6 +1,7 @@
 ---
-title: Mint Dispenser
+title: Tic  tac
 date: 2017-06-20 12:46:00 +05:30
+subtitle: Mint dispenser redesign
 thumbnail image: "/uploads/thumbnail-mint-dispenser.jpg"
 project category: Industrial Design
 description:
