@@ -60,6 +60,6 @@ exclude:
 gems:
 - jekyll-seo-tag
 - jekyll-sitemap
-behance: 
-linkedin: 
-instagram: 
+behance: https://www.behance.net/avani-tavargeri
+linkedin: https://www.linkedin.com/in/avanitavargeri
+instagram: https://www.instagram.com/avanitavargeri/?hl=en
