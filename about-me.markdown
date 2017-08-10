@@ -3,11 +3,11 @@ title: About
 date: 2017-08-10 12:29:00 +05:30
 skills:
 - name: Product Design
-  icon: 
+  icon: Box-Open
 - name: User Experience Design
-  icon: 
+  icon: Finger-DragTwoSides
 - name: Sketching
-  icon: 
+  icon: Pencil
 - name: 
   icon: 
 layout: about
