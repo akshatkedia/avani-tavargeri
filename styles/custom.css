@@ -3,5 +3,12 @@ Add your custom styles below
 ****************************/
 
 .nav-bar .logo {
+  width: 45.5px;
   max-height: 70%;
+}
+
+@media (max-width: 768px) {
+  .background-image-holder {
+    background-position-x: right !important;
+  }
 }
