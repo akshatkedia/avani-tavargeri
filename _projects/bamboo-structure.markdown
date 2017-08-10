@@ -37,5 +37,11 @@ gallery:
   text: 
 - image: "/uploads/Bamboo-1.jpg"
   text: 
+- image: "/uploads/Bamboo-15.jpg"
+  text: 
+- image: "/uploads/Bamboo-16.jpg"
+  text: 
+- image: "/uploads/Bamboo-14.jpg"
+  text: 
 ---
 
