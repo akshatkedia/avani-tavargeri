@@ -17,33 +17,23 @@ layout: default
 <section>
   <div class="container">
     <div class="row">
+      {% for skill in page.skills %}
+      <div class="col-sm-4">
+        <div class="feature feature-2">
+          <div class="feature__title text-center">
+            <i class="icon icon-{{ skill.icon }}"></i>
+            <h6>{{ skill.name }}</h6>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row">
       <div class="col-sm-12">
-        <div class="elements--title">
-          <h4>What I do<br></h4>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="feature feature-3">
-          <div class="feature__left">
-            <i class="icon icon-Ship"></i>
-          </div>
-          <div class="feature__right">
-            <h6>Product Design</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="feature feature-3">
-          <div class="feature__left">
-            <i class="icon icon-Fingerprint-2"></i>
-          </div>
-          <div class="feature__right">
-            <h6>User Experience design</h6>
-          </div>
+        <div class="text-center">
+          {{ page.contact.text }}
         </div>
       </div>
     </div>
-
   </div>
-
 </section>
