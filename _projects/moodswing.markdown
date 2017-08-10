@@ -1,6 +1,7 @@
 ---
 title: Moodswing
 date: 2017-07-09 13:17:00 +05:30
+published: false
 subtitle: An interactive swing design
 thumbnail image: "/uploads/thumbnail-moodswing.jpg"
 description:
