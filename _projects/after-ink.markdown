@@ -16,19 +16,19 @@ section two:
     care of a tattoo in its initial days to ensure good health of your tattoo. The
     packaging itself acts as a container to store the contents after purchase. '
 gallery:
-- image: "/uploads/DSC_0251.jpg"
+- image: "/uploads/after-ink-3.jpg"
   text: 
-- image: "/uploads/IMG_5195.jpg"
+- image: "/uploads/after-ink-6.jpg"
   text: 
-- image: "/uploads/IMG_5184.jpg"
+- image: "/uploads/after-ink-5.jpg"
   text: All the contents can be viewed from top, allowing the user to easily pull
     out the product that is required.
-- image: "/uploads/DSC_0232.jpg"
+- image: "/uploads/after-ink-1.jpg"
   text: Easy to open lid.
-- image: "/uploads/IMG_5179.jpg"
+- image: "/uploads/after-ink-7.jpg"
   text: 'The kit is made up of hardboard. The manufacturing process will include blanking
     with the help of punch and die. The folding process will be mechanized. '
-- image: "/uploads/DSC_0284.jpg"
+- image: "/uploads/after-ink-4.jpg"
   text: The after care kit had a very bold, rugged look. The beige and black color
     scheme relates to the tattoos etched on skin and adds to the boldness and robustness
     of the product. The hexagonal structure enhances the look and makes the product
