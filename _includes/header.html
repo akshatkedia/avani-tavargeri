@@ -1,6 +1,10 @@
 <div class="nav-container">
   <nav>
+    {% if page.url == "/" %}
+    <div class="nav-bar nav--absolute nav--transparent" data-fixed-at="700">
+    {% else %}
     <div class="nav-bar" data-fixed-at="700">
+    {% endif %}
       <div class="nav-module logo-module left">
         <a href="/">
           <img alt="logo" class="logo logo-dark" src="/img/logo-dark.png">
@@ -10,7 +14,10 @@
       <div class="nav-module menu-module left">
         <ul class="menu">
           <li>
-            <a href="/about-me">About Me</a>
+            <a href="/about-me">About</a>
+          </li>
+          <li>
+            <a href="/contact">Contact</a>
           </li>
         </ul>
       </div>
