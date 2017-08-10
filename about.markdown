@@ -10,6 +10,8 @@ skills:
   icon: Pencil
 - name: 
   icon: 
+contact:
+  text: 
 layout: about
 ---
 
