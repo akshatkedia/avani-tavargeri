@@ -11,8 +11,8 @@ layout: default
       <div class="col-sm-6">
         <h1>Hello.</h1>
         <p class="lead">
-          I am Avani Tavargeri,
-          <br /> and this is my portfolio.
+          I Am Avani Tavargeri,
+          <br /> A Product &amp; User Experience Designer.
         </p>
       </div>
     </div>
@@ -23,7 +23,6 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="masonry">
-        <div class="masonry__filters text-center" data-filter-all-text="Show All"></div>
         <div class="masonry__container masonry--animate masonry--active">
           {% for project in site.projects %}
           <div class="col-sm-4 masonry__item" data-masonry-filter="{{ project['project category'] | downcase }}">
