@@ -23,7 +23,7 @@ gallery:
     system transform and adapt to accommodate the various stages of growth.\n\nFor
     example, the outer layer of a seed fulfills the purpose of protecting the seed
     throughout the growth cycles of the seed. "
-- image: "/uploads/chadle-2-c43892.jpg"
+- image: "/uploads/chadle-2.jpg"
   text: "\n\nBut this is not the case with human lifestyle. Throughout our life cycle,
     we use various products that fulfill various needs of a particular stage. No product
     grows along with the human. \n\nFor example, to fulfill the purpose of sitting,
