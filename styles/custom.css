@@ -6,3 +6,9 @@ Add your custom styles below
   width: 45.5px;
   max-height: 70%;
 }
+
+@media (max-width: 768px) {
+  .background-image-holder {
+    background-position-x: right !important;
+  }
+}
