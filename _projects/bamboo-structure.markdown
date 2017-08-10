@@ -13,6 +13,8 @@ key focus areas:
 - Material Study
 top image: "/uploads/Bamboo-13.jpg"
 gallery:
+- image: "/uploads/Bamboo-1.jpg"
+  text: 
 - image: "/uploads/Bamboo-2.jpg"
   text: 
 - image: "/uploads/Bamboo-3.jpg"
@@ -35,7 +37,11 @@ gallery:
   text: 
 - image: "/uploads/Bamboo-12.jpg"
   text: 
-- image: "/uploads/Bamboo-1.jpg"
+- image: "/uploads/Bamboo-15.jpg"
+  text: 
+- image: "/uploads/Bamboo-16.jpg"
+  text: 
+- image: "/uploads/Bamboo-14.jpg"
   text: 
 ---
 
