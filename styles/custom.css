@@ -3,5 +3,6 @@ Add your custom styles below
 ****************************/
 
 .nav-bar .logo {
+  width: 45.5px;
   max-height: 70%;
 }
