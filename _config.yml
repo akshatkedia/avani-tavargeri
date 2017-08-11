@@ -57,9 +57,9 @@ exclude:
 - README*
 - node_modules
 - ".gitignore"
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 behance: https://www.behance.net/avani-tavargeri
 linkedin: https://www.linkedin.com/in/avanitavargeri
-instagram: https://www.instagram.com/avanitavargeri/?hl=en
+instagram: https://www.instagram.com/avanitavargeri

@@ -31,7 +31,22 @@ layout: default
     <div class="row">
       <div class="col-sm-12">
         <div class="text-center">
-          {{ page.contact.text }}
+          <a class="btn btn--primary" href="{{ page.resume.link }}">
+            <span class="btn__text">
+              Resume
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="text-center">
+          {{ page.contact.text | markdownify }}
         </div>
       </div>
     </div>
