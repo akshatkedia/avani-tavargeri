@@ -6,18 +6,18 @@ thumbnail image: "/uploads/thumbnail-after-ink.jpg"
 project category: Industrial Design
 description:
   icon: Box-Open
-  text: Packaging Design for a tattoo aftercare kit.
   title: After Ink
 key focus areas:
 - Packaging Design
-top image: "/uploads/DSC_0249.jpg"
+top image: "/uploads/top-image-after-ink.jpg"
 section two:
+  title: About
+  text: Packaging design for a tattoo aftercare kit.
+gallery:
+- image: "/uploads/after-ink-3.jpg"
   text: 'After Ink was designed to include all the essential items required for taking
     care of a tattoo in its initial days to ensure good health of your tattoo. The
     packaging itself acts as a container to store the contents after purchase. '
-gallery:
-- image: "/uploads/after-ink-3.jpg"
-  text: 
 - image: "/uploads/after-ink-6.jpg"
   text: 
 - image: "/uploads/after-ink-5.jpg"
