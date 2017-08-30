@@ -11,7 +11,7 @@ key focus areas:
 - Packaging Design
 top image: "/uploads/top-image-after-ink.jpg"
 section two:
-  title: About
+  title: About the project
   text: Packaging design for a tattoo aftercare kit.
 gallery:
 - image: "/uploads/after-ink-3.jpg"
