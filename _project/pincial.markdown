@@ -7,6 +7,9 @@ project category: Industrial Design
 description:
   icon: Wind-Turbine
   title: Pincial
+key focus areas:
+- Form development
+- 
 top image: "/uploads/top-image-pincial.jpg"
 gallery:
 - image: "/uploads/pincial-1.jpg"
