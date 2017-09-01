@@ -633,7 +633,7 @@ img {
   background: #fff;
 }
 [data-overlay].bg--primary:before {
-  background: #42b4bb;
+  background: #5f94bd;
 }
 [data-overlay="1"]:before {
   opacity: 0.1;
@@ -873,10 +873,10 @@ body {
   background: #f8f8f8;
 }
 .color--primary {
-  color: #42b4bb !important;
+  color: #5f94bd !important;
 }
 a {
-  color: #42b4bb;
+  color: #5f94bd;
 }
 .color--primary-1 {
   color: #7cc36a !important;
@@ -917,7 +917,7 @@ a {
   background: #f4f4f4;
 }
 .bg--primary {
-  background: #42b4bb;
+  background: #5f94bd;
 }
 .bg--primary p,
 .bg--primary span,
@@ -1161,8 +1161,8 @@ a {
 }
 .btn--primary,
 .btn--primary:visited {
-  background: #42b4bb;
-  border-color: #42b4bb;
+  background: #5f94bd;
+  border-color: #5f94bd;
 }
 .btn--primary .btn__text,
 .btn--primary:visited .btn__text {
@@ -1173,10 +1173,10 @@ a {
   color: #fff;
 }
 .btn--primary:hover {
-  background: #54bcc3;
+  background: #5f94bd;
 }
 .btn--primary:active {
-  background: #3ba2a8;
+  background: #5f94bd;
 }
 .btn--primary-1,
 .btn--primary-1:visited {
@@ -1682,7 +1682,7 @@ input[type="submit"] {
   background: none;
   outline: none;
   border: none;
-  background: #42b4bb;
+  background: #5f94bd;
   padding: 0.8125em 3.25em 0.8125em 3.25em;
   color: #fff;
 }
@@ -1752,7 +1752,7 @@ button:focus {
 .input-checkbox.checked .inner,
 .input-radio.checked .inner,
 .input-select.checked .inner {
-  background: #42b4bb;
+  background: #5f94bd;
 }
 .input-checkbox label,
 .input-radio label,
@@ -1865,7 +1865,7 @@ button:focus {
   padding-bottom: 1.625em;
 }
 .accordion li.active .accordion__title {
-  background: #42b4bb;
+  background: #5f94bd;
   border-bottom: 1px solid #dfdfdf;
 }
 .accordion li.active .accordion__content {
@@ -3209,7 +3209,7 @@ body.theme--boxed section.section--overlap + section:not(.bg--white):not(.bg--da
   left: -25%;
   width: 25%;
   height: 3px;
-  background-color: #42b4bb;
+  background-color: #5f94bd;
   animation: loading 5s linear infinite;
 }
 @keyframes loading {
@@ -3299,7 +3299,7 @@ p a {
 }
 span a:hover,
 p a:hover {
-  text-decoration: underline;
+  text-decoration: none;
   opacity: .9;
 }
 h1 em,
@@ -3443,10 +3443,10 @@ span.label {
 }
 /*! -- Pillar Buttons -- */
 .btn.btn--primary {
-  border-color: #42b4bb;
+  border-color: #5f94bd;
 }
 .btn.btn--primary:hover {
-  border-color: #54bcc3;
+  border-color: #5f94bd;
 }
 .btn.btn--success {
   background: #64b671;
@@ -4223,8 +4223,8 @@ button {
   font-size: 0.625em !important;
   letter-spacing: 1px;
   color: #fff;
-  background: #42b4bb;
-  border-color: #42b4bb;
+  background: #5f94bd;
+  border-color: #5f94bd;
 }
 button:hover,
 button:focus,
@@ -4234,7 +4234,7 @@ button:active {
 button:active,
 button:hover,
 button:focus {
-  border-color: #42b4bb !important;
+  border-color: #5f94bd !important;
 }
 button.btn--loading:after {
   background: #8cd2d7;
@@ -5201,7 +5201,7 @@ i + .twitter-feed {
   margin-bottom: 0;
 }
 .twitter-feed-1 p a {
-  color: #42b4bb;
+  color: #5f94bd;
 }
 .twitter-feed-2 li .tweet {
   margin-bottom: 0.8125em;
@@ -5627,7 +5627,7 @@ section.features .feature-2 {
 }
 .piechart-3 i {
   font-size: 2.8125em;
-  color: #42b4bb;
+  color: #5f94bd;
 }
 .piechart-3 + h5 {
   margin-top: 1.625em;
@@ -5644,7 +5644,7 @@ section.features .feature-2 {
   border-radius: 50px;
 }
 .barchart .barchart__progress {
-  background: #42b4bb;
+  background: #5f94bd;
   border-radius: 50px;
 }
 .barchart .barchart__description {
@@ -6410,7 +6410,7 @@ iframe {
   margin-bottom: 0.8125em;
 }
 .feature-2 .feature__title i {
-  margin-right: 0.57777777777778em;
+  margin-right: 0;
 }
 .feature-2 .feature__title h6 {
   margin: 0;
@@ -6795,7 +6795,7 @@ section:first-of-type.imagebg + .masonry-contained {
   -moz-transition: 0.3s ease-in;
 }
 .hover-element.bg--primary [data-overlay]:before {
-  background: #42b4bb;
+  background: #5f94bd;
 }
 .hover-element .modal-instance {
   position: relative;
@@ -7975,7 +7975,7 @@ section + img {
   height: 40000px;
   position: absolute;
   top: -200px;
-  border-right: 1px dashed #42b4bb;
+  border-right: 1px dashed #5f94bd;
   opacity: .3;
   left: 50%;
   margin-left: -1px;

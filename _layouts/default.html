@@ -9,7 +9,6 @@
   <link href="/styles/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
   <link href="/styles/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
   <link href="/styles/interface-icons.css" rel="stylesheet" type="text/css" media="all"/>
-  <link href="/styles/owl.carousel.css" rel="stylesheet" type="text/css" media="all"/>
   <link href="/styles/theme-mediumblue.css" rel="stylesheet" type="text/css" media="all"/>
   <link href="/styles/custom.css" rel="stylesheet" type="text/css" media="all"/>
   <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
@@ -19,7 +18,8 @@
   {% seo %}
 </head>
 
-<body>
+<body class="scroll-assist" data-reveal-selectors=".masonry__item">
+  <div class="loader"></div>
   {% include header.html %}
   <div class="main-container transition--fade">
     {{ content }}
@@ -28,6 +28,7 @@
   <script src="/scripts/jquery-2.1.4.min.js"></script>
   <script src="/scripts/isotope.min.js"></script>
   <script src="/scripts/scrollreveal.min.js"></script>
+  <script src="/scripts/smooth-scroll.min.js"></script>
   <script src="/scripts/parallax.js"></script>
   <script src="/scripts/scripts.js"></script>
 </body>

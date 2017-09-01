@@ -568,7 +568,7 @@ img:last-child {
   background: #fff;
 }
 [data-overlay].bg--primary:before {
-  background: #42b4bb;
+  background: #79c4fe;
 }
 [data-overlay="1"]:before {
   opacity: 0.1;
@@ -796,10 +796,10 @@ body {
   background: #f8f8f8;
 }
 .color--primary {
-  color: #42b4bb !important;
+  color: #79c4fe !important;
 }
 a {
-  color: #42b4bb;
+  color: #79c4fe;
 }
 .color--primary-1 {
   color: #7cc36a !important;
@@ -832,7 +832,7 @@ a {
   background: #f4f4f4;
 }
 .bg--primary {
-  background: #42b4bb;
+  background: #79c4fe;
 }
 .bg--primary p,
 .bg--primary span,
@@ -1055,8 +1055,8 @@ a {
 }
 .btn--primary,
 .btn--primary:visited {
-  background: #42b4bb;
-  border-color: #42b4bb;
+  background: #79c4fe;
+  border-color: #79c4fe;
 }
 .btn--primary .btn__text,
 .btn--primary:visited .btn__text {
@@ -1602,7 +1602,7 @@ input[type="submit"] {
   background: none;
   outline: none;
   border: none;
-  background: #42b4bb;
+  background: #79c4fe;
   padding: 0.8125em 3.25em 0.8125em 3.25em;
   color: #fff;
 }
@@ -1672,7 +1672,7 @@ button:focus {
 .input-checkbox.checked .inner,
 .input-radio.checked .inner,
 .input-select.checked .inner {
-  background: #42b4bb;
+  background: #79c4fe;
 }
 .input-checkbox label,
 .input-radio label,
@@ -1785,7 +1785,7 @@ button:focus {
   padding-bottom: 1.625em;
 }
 .accordion li.active .accordion__title {
-  background: #42b4bb;
+  background: #79c4fe;
   border-bottom: 1px solid #dfdfdf;
 }
 .accordion li.active .accordion__content {
@@ -1816,7 +1816,7 @@ button:focus {
   vertical-align: middle;
   background: rgba(0, 0, 0, 0);
   border-radius: 100%;
-  fill: #42b4bb;
+  fill: #79c4fe;
   position: relative;
   opacity: 0;
   transition: 0.2s linear;
@@ -3094,7 +3094,7 @@ body.theme--boxed section:not(.bg--white):not(.bg--dark):not(.bg--secondary):not
   left: -25%;
   width: 25%;
   height: 3px;
-  background-color: #42b4bb;
+  background-color: #79c4fe;
   animation: loading 5s linear infinite;
 }
 @keyframes loading {
@@ -3294,7 +3294,7 @@ p[class*='col-'] {
 }
 /*! -- Pillar Buttons -- */
 .btn.btn--primary {
-  border-color: #42b4bb;
+  border-color: #79c4fe;
 }
 .btn.btn--primary:hover {
   border-color: #54bcc3;
@@ -3947,8 +3947,8 @@ button {
   font-size: 0.625em !important;
   letter-spacing: 1px;
   color: #fff;
-  background: #42b4bb;
-  border-color: #42b4bb;
+  background: #79c4fe;
+  border-color: #79c4fe;
 }
 button:hover,
 button:focus,
@@ -3958,7 +3958,7 @@ button:active {
 button:active,
 button:hover,
 button:focus {
-  border-color: #42b4bb !important;
+  border-color: #79c4fe !important;
 }
 button.btn--loading:after {
   background: #8cd2d7;
@@ -4888,7 +4888,7 @@ i + .twitter-feed {
   margin-bottom: 0;
 }
 .twitter-feed-1 p a {
-  color: #42b4bb;
+  color: #79c4fe;
 }
 .twitter-feed-2 li .tweet {
   margin-bottom: 0.8125em;
@@ -5286,7 +5286,7 @@ section.features .feature-2 {
 }
 .piechart-3 i {
   font-size: 2.8125em;
-  color: #42b4bb;
+  color: #79c4fe;
 }
 .piechart-3 + h5 {
   margin-top: 1.625em;
@@ -5303,7 +5303,7 @@ section.features .feature-2 {
   border-radius: 50px;
 }
 .barchart .barchart__progress {
-  background: #42b4bb;
+  background: #79c4fe;
   border-radius: 50px;
 }
 .barchart .barchart__description {
@@ -6410,7 +6410,7 @@ section:first-of-type.imagebg + .masonry-contained {
   -moz-transition: 0.3s ease-in;
 }
 .hover-element.bg--primary [data-overlay]:before {
-  background: #42b4bb;
+  background: #79c4fe;
 }
 .hover-element .modal-instance {
   position: relative;
@@ -7531,7 +7531,7 @@ section + img {
   height: 40000px;
   position: absolute;
   top: -200px;
-  border-right: 1px dashed #42b4bb;
+  border-right: 1px dashed #79c4fe;
   opacity: .3;
   left: 50%;
   margin-left: -1px;

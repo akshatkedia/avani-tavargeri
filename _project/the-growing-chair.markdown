@@ -32,7 +32,10 @@ gallery:
     a product that grows and transforms with the human. A product that accommodates
     various stages of the growth cycle. "
 - image: "/uploads/chadle-6.jpg"
-  text: 
+  text: 'While designing Chadle, our focus was to create a product that transforms
+    with ease. With this in mind, various forms were explored. Through multiple iterations,
+    the chair was designed to transform into a cradle and back to the chair with a
+    simple twist of a know. '
 - image: "/uploads/chadle-7.jpg"
   text: 
 - image: "/uploads/chadle-4.jpg"

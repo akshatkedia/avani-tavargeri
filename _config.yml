@@ -8,7 +8,7 @@ collections:
   project-categories:
     title: Project Categories
     output: true
-  projects:
+  project:
     title: Projects
     output: true
   uploads:
@@ -28,7 +28,7 @@ defaults:
     layout: page
 - scope:
     path: ''
-    type: projects
+    type: project
   values:
     layout: project
     subtitle: 
@@ -46,7 +46,7 @@ defaults:
     gallery:
     - image: 
       text: 
-description: 
+description: Avani Tavargeri, a Product & User Experience designer portfolio website.
 email: avani.tavargeri@gmail.com
 permalink: pretty
 exclude:
@@ -63,3 +63,11 @@ plugins:
 behance: https://www.behance.net/avani-tavargeri
 linkedin: https://www.linkedin.com/in/avanitavargeri
 instagram: https://www.instagram.com/avanitavargeri
+url: https://www.avanidesign.works
+social:
+  name: Avani Tavargeri
+  links:
+  - https://www.behance.net/avani-tavargeri
+  - https://www.linkedin.com/in/avanitavargeri
+  - https://www.instagram.com/avanitavargeri
+google_site_verification: LuECnNL7wp6unWX11PUWUZF1rSvAMWO62boXIPhxRRQ
