@@ -6,9 +6,14 @@ thumbnail image: "/uploads/thumbnail-after-ink.jpg"
 project category: Industrial Design
 description:
   icon: Box-Open
+  text: Packaging of any product is as important as the product itself. It helps the
+    product stand out and communicates what the product is about. After Ink is a packaging
+    design concept that packages all the necessary products required to take care
+    of a tattoo.
   title: After Ink
 key focus areas:
-- Packaging Design
+- Packaging design
+- Design for manufacturability
 top image: "/uploads/top-image-after-ink.jpg"
 section two:
   title: About the project
