@@ -36,7 +36,7 @@ gallery:
   text: 'While designing Chadle, our focus was to create a product that transforms
     with ease. With this in mind, various forms were explored. Through multiple iterations,
     the chair was designed to transform into a cradle and back to the chair with a
-    simple twist of a know. '
+    simple twist of a knob. '
 - image: "/uploads/chadle-7.jpg"
   text: 
 - image: "/uploads/chadle-4.jpg"
