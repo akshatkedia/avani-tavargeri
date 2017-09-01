@@ -5,17 +5,13 @@ layout: default
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-8 col-sm-offset-2 text-center">
+      <div class="col-sm-8 col-sm-offset-2 text-center feature">
         <h3>About Me<br></h3>
         <p>
           {{ content }}
         </p>
       </div>
     </div>
-  </div>
-</section>
-<section>
-  <div class="container">
     <div class="row">
       {% for skill in page.skills %}
       <div class="col-sm-4">
@@ -30,8 +26,8 @@ layout: default
     </div>
     <div class="row">
       <div class="col-sm-12">
-        <div class="text-center">
-          <a class="btn btn--primary" href="{{ page.resume.link }}">
+        <div class="text-center feature">
+          <a class="btn btn--primary" href="{{ page.resume.file }}">
             <span class="btn__text">
               Resume
             </span>
@@ -39,10 +35,6 @@ layout: default
         </div>
       </div>
     </div>
-  </div>
-</section>
-<section>
-  <div class="container">
     <div class="row">
       <div class="col-sm-12">
         <div class="text-center">
