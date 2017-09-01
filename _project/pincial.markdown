@@ -9,7 +9,7 @@ description:
   title: Pincial
 key focus areas:
 - Form development
-- 
+- Form kinematics
 top image: "/uploads/top-image-pincial.jpg"
 gallery:
 - image: "/uploads/pincial-1.jpg"
