@@ -9,7 +9,7 @@ skills:
 - name: Sketching
   icon: Pencil
 resume:
-  link: 
+  file: "/uploads/Avani_Tavargeri_Resume.pdf"
 contact:
   text: If you would like to work with me or simply say hi, write to me at [avani.tavargeri@gmail.com](mailto:avani.tavargeri@gmail.com)
 layout: about
