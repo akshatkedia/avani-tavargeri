@@ -8,8 +8,8 @@ description:
   icon: Candy
   text: Tic Tac is a famous mint brand. These mints are sold in small transparent
     plastic boxes with a flip living hinge lid. Most Tac Tac users reuse these containers
-    to store small things. The idea was to make these containers more desirable and
-    appealing and playful.
+    to store small things. The idea was to make these containers more desirable, appealing
+    and playful.
   title: Mint dispenser
 key focus areas:
 - Injection mold-able design
