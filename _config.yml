@@ -31,21 +31,21 @@ defaults:
     type: project
   values:
     layout: project
-    subtitle:
-    thumbnail image:
-    project category:
+    subtitle: 
+    thumbnail image: 
+    project category: 
     description:
-      icon:
-      text:
+      icon: 
+      text: 
     key focus areas:
-    -
-    top image:
+    - 
+    top image: 
     section two:
-      title:
-      text:
+      title: 
+      text: 
     gallery:
-    - image:
-      text:
+    - image: 
+      text: 
 description: Avani Tavargeri, a Product & User Experience designer portfolio website.
 email: avani.tavargeri@gmail.com
 permalink: pretty
