@@ -8,7 +8,7 @@ collections:
   project-categories:
     title: Project Categories
     output: true
-  projects:
+  project:
     title: Projects
     output: true
   uploads:
