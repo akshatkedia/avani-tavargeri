@@ -11,7 +11,9 @@ description:
     well as the space that the product is used in. '
   title: Oil dispenser for an Ayurvedic spa
 key focus areas:
-- Form Semantics
+- Form semantics
+- Creating engaging experiences
+- Aesthetics
 top image: "/uploads/top-image-oil-dispenser-fc42ca.jpg"
 section two:
   title: about the project
