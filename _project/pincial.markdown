@@ -9,8 +9,12 @@ description:
   title: Pincial
 key focus areas:
 - Form development
-- 
+- Form kinematics
 top image: "/uploads/top-image-pincial.jpg"
+section two:
+  title: About the project
+  text: 'To build an installation that creates an interesting aesthetic experience
+    with the help of forms and mechanisms '
 gallery:
 - image: "/uploads/pincial-1.jpg"
   text: 
