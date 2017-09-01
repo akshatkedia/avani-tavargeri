@@ -11,8 +11,9 @@ description:
     convert it into a rocking chair for an adult.
   title: The growing chair
 key focus areas:
-- Nature Inspired Design
-- 
+- Nature inspired design
+- Clean and minimal design
+- Ease of use
 top image: "/uploads/top-image-chadle.jpg"
 section two:
   title: Inspiration
