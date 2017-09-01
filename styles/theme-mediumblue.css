@@ -3299,7 +3299,7 @@ p a {
 }
 span a:hover,
 p a:hover {
-  text-decoration: underline;
+  text-decoration: none;
   opacity: .9;
 }
 h1 em,
