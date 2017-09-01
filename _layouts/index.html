@@ -24,7 +24,7 @@ layout: default
     <div class="row">
       <div class="masonry">
         <div class="masonry__container masonry--animate masonry--active">
-          {% for project in site.projects %}
+          {% for project in site.project %}
           <div class="col-sm-4 masonry__item" data-masonry-filter="{{ project['project category'] | downcase }}">
             <a href="{{ project.url }}">
               <div class="card card-3">
