@@ -17,7 +17,7 @@ key focus areas:
 top image: "/uploads/top-image-oil-dispenser-fc42ca.jpg"
 section two:
   title: about the project
-  text: Creating a clean and minimal for an oil dispenser.
+  text: Creating a clean and minimal form for an oil dispenser.
 gallery:
 - image: "/uploads/oil-dispenser-1.jpg"
   text: In Ayurvedic spas, oil is used for a variety of purposes. The idea was to
