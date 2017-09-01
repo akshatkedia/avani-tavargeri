@@ -17,12 +17,12 @@ key focus areas:
 top image: "/uploads/top-image-oil-dispenser-fc42ca.jpg"
 section two:
   title: about the project
-  text: 'In Ayurvedic spas, oil is used for a variety of purposes. The idea was to
-    create a dispenser that allows the masseuse to pour a thin stream of oil with
-    ease. '
+  text: Creating a clean and minimal for an oil dispenser.
 gallery:
 - image: "/uploads/oil-dispenser-1.jpg"
-  text: 
+  text: In Ayurvedic spas, oil is used for a variety of purposes. The idea was to
+    create a dispenser that allows the masseuse to pour a thin stream of oil with
+    ease.
 - image: "/uploads/oil-dispenser-2.jpg"
   text: 
 - image: "/uploads/oil-dispenser-3.jpg"
