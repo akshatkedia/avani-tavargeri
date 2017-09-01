@@ -8,7 +8,7 @@ description:
   icon: Tent
   text: The idea was to design a structure enclosing a space such that it integrates
     with the natural environment and encourages social interaction within the institute
-    campus. The material of choice was Bamboo.
+    campus. The material of choice was bamboo.
   title: Bamboo Structure
 key focus areas:
 - Space Design
