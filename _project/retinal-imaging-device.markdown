@@ -18,13 +18,16 @@ key focus areas:
 top image: "/uploads/top-image-retinal-imaging-device.jpg"
 section two:
   title: About the project
-  text: 'To develop a low cost fundus camera that will make diagnosis affordable and
-    accessible '
+  text: The objective was to empower all health workers by providing an easy to use,
+    affordable and accessible retinal imaging device to help detect avoidable blindness.
 gallery:
 - image: "/uploads/retinal-imaging-device-8.jpg"
-  text: 
+  text: |-
+    This project involved understanding in depth about the eye and learning about the various diagnostic procedures and equipment. Analyzing the existing scenario and recognizing the need of affordable retinal imaging was part of the process. Identifying the scope and widespread effects of designing a product which allows easy, stable
+    and affordable imaging were the major drivers that defined the solutions obtained through this project.
 - image: "/uploads/retinal-imaging-device-9.jpg"
-  text: 
+  text: Our approach was to fulfill the shortcomings of existing smart-phone imaging
+    devices, and improve the quality of the retinal images.
 - image: "/uploads/retinal-imaging-device-10.jpg"
   text: 
 - image: "/uploads/retinal-imaging-device-2.jpg"
