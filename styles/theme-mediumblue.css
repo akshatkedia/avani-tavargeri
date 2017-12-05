@@ -1499,17 +1499,12 @@ nav {
     height: auto;
     overflow: hidden;
   }
-  .nav-bar .nav-module.left,
-  .nav-bar .nav-module.right {
-    float: none;
-    display: block;
-  }
   .nav-bar .nav-module {
     padding: 0;
   }
-  .nav-bar .nav-module:not(.logo-module) {
-    height: auto;
-    line-height: 2em;
+  .nav-bar .nav-module:not(.logo-module).left {
+    float: right;
+    display: block;
   }
   .menu {
     height: auto;
